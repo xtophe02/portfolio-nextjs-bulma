@@ -56,7 +56,7 @@ export default function ProjectsPage({ projects = [] }) {
                     </div>
                   </div>
                   <div className="buttons is-centered">
-                    <Link href={`/project/${project.slug}`}>
+                    <Link href={`/projects/${project.slug}`}>
                       <a className="button is-link is-outlined">Read More</a>
                     </Link>
 

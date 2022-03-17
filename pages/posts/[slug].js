@@ -41,7 +41,7 @@ export default function PostSlugPage({ post }) {
             </div>
           </div>
         </div>
-        <MarkedComponent content={post.content} />
+        <MarkedComponent content={post.content} imageUrl={post.slug} />
       </section>
     </Layout>
   );

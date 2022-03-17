@@ -1,13 +1,13 @@
 ---
-title: 'Getting Started with NextJS'
+title: "Getting Started with NextJS"
 excerpt: NextJS is a the React framework for production - it makes building fullstack React apps and sites a breeze and ships with built-in SSR.
-date: 'Dec 12, 2021'
-image: 'nextjs.svg'
+date: "Dec 12, 2021"
+image: "nextjs.svg"
 isFeatured: false
-category: ['Javascript', 'React', 'NextJS']
+category: ["Javascript", "React", "NextJS"]
 ---
 
-NextJS is a **framework for ReactJS**.
+# NextJS is a **framework for ReactJS**.
 
 Wait a second ... a "framework" for React? Isn't React itself already a framework for JavaScript?
 

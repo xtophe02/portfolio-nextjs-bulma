@@ -61,7 +61,7 @@ export default function PostsSection({ posts }) {
                     </div>
                   </div>
                 </div>
-                <Link href={`/post/${post.slug}`}>
+                <Link href={`/posts/${post.slug}`}>
                   <a className="button is-fullwidth  is-outlined is-link has-text-weight-bold">
                     Read More
                   </a>
