@@ -57,7 +57,7 @@ export default function ContactPage() {
         <div className="hero-body">
           <p className="title  has-text-white">Get in touch</p>
           <p className="subtitle  has-text-light">
-            &ldquo;don't take anything personal&rdquo;
+            &ldquo;don&apos;t take anything personal&rdquo;
           </p>
         </div>
         <div className="columns is-vcentered">
