@@ -6,7 +6,7 @@ import ReCAPTCHA from "react-google-recaptcha";
 
 import { useLottie } from "lottie-react";
 import lottieAnimation from "../public/contact.json";
-import { ToastContainer, toast } from "react-toastify";
+import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 export default function ContactPage() {
@@ -51,8 +51,6 @@ export default function ContactPage() {
   };
   return (
     <Layout>
-      <ToastContainer theme="dark" />
-
       <section className="section hero container">
         <div className="hero-body">
           <p className="title  has-text-white">Get in touch</p>

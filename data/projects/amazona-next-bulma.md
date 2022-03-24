@@ -1,12 +1,12 @@
 ---
-title: 'Amazona Ecommerce'
-date: 'Jan 10, 2022'
-excerpt: 'a nice app with interactive cart and you can make payments with Paypal'
-image: 'amazona-next-bulma.png'
-url: 'https://amazona-next-bulma.vercel.app/'
-git: 'https://github.com/xtophe02/amazona-next-bulma'
-isFeatured: true
-category: ['nextjs', 'mongoose', 'bulma']
+title: "Amazona Ecommerce"
+date: "Jan 10, 2022"
+excerpt: "a nice app with interactive cart and you can make payments with Paypal"
+image: "amazona-next-bulma.png"
+url: "https://amazona-next-bulma.vercel.app/"
+git: "https://github.com/xtophe02/amazona-next-bulma"
+isFeatured: false
+category: ["nextjs", "mongoose", "bulma"]
 ---
 
 # Amazona Ecommerce

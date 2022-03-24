@@ -16,7 +16,7 @@ export default function PostsSection({ posts }) {
         <p className="title has-text-white">Posts</p>
         <p className="subtitle has-text-light">
           My lastest posts. Click{" "}
-          <Link href="/posts">
+          <Link href="/blog">
             <a>here</a>
           </Link>{" "}
           to see them all.

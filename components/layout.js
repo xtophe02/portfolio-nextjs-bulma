@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./navbar";
 import Footer from "./footer";
 import Head from "next/head";
+import { ToastContainer } from "react-toastify";
 
 export default function Layout({
   children,
@@ -23,6 +24,7 @@ export default function Layout({
         style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}
       >
         <Navbar />
+        <ToastContainer theme="dark" />
         <section
           // className="container"
           style={{

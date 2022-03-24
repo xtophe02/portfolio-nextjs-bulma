@@ -9,7 +9,10 @@ export default function Document() {
           rel="stylesheet"
         /> */}
       </Head>
-      <body className="has-navbar-fixed-top" style={{ fontFamily: "Ubuntu" }}>
+      <body
+        className="has-navbar-fixed-top"
+        // style={{ fontFamily: "Helvetica" }}
+      >
         <Main />
         <NextScript />
       </body>

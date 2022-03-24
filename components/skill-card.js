@@ -60,8 +60,9 @@ export default function SkillCard({ skill }) {
   return (
     <ReactCardFlip isFlipped={show} flipDirection="horizontal">
       <div
-        className="card"
+        className="card "
         onMouseEnter={() => setShow(true)}
+        onClick={() => setShow(true)}
         style={details[skill.slug].style}
       >
         <header className="card-header">
@@ -77,9 +78,10 @@ export default function SkillCard({ skill }) {
       </div>
 
       <div
-        className="card"
+        className="card "
         style={details[skill.slug].style}
         onMouseLeave={() => setShow(false)}
+        onClick={() => setShow(false)}
       >
         <div className="card-content">
           <div className="columns is-gapless">
