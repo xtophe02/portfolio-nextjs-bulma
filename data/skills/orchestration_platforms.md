@@ -1,7 +1,7 @@
 ---
 title: "Orchestration Platforms"
 order: "6"
-color: "primary"
+color: "info-dark"
 library:
   [
     { icon: "docker", color: "link", url: "https://www.docker.com/" },

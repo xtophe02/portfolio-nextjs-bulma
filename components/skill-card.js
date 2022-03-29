@@ -14,7 +14,8 @@ const details = {
     icon: <FaDatabase size="16rem" />,
     style: {
       backgroundColor: "#bf3a30",
-      backgroundImage: "linear-gradient(315deg, #bf3a30 0%, #864ba2 74%)",
+      // backgroundImage: "linear-gradient(315deg, #bf3a30 0%, #864ba2 74%)",
+      backgroundImage: "linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%)",
     },
   },
   html5_css3: {
@@ -28,28 +29,32 @@ const details = {
     icon: <FaServer size="16rem" />,
     style: {
       backgroundColor: "#63d471",
-      backgroundImage: "linear-gradient(315deg, #63d471 0%, #233329 74%)",
+      // backgroundImage: "linear-gradient(315deg, #63d471 0%, #233329 74%)",
+      backgroundImage: "linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%)",
     },
   },
   hosting_platforms: {
     icon: <AiOutlineCloudServer size="16rem" />,
     style: {
       backgroundColor: "#5de6de",
-      backgroundImage: "linear-gradient(315deg, #5de6de 0%, #b58ecc 74%)",
+      // backgroundImage: "linear-gradient(315deg, #5de6de 0%, #b58ecc 74%)",
+      backgroundImage: "linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%)",
     },
   },
   javascript: {
     icon: <VscServerProcess size="16rem" />,
     style: {
       backgroundColor: "#f5d020",
-      backgroundImage: "linear-gradient(315deg, #f5d020 0%, #f53803 74%)",
+      // backgroundImage: "linear-gradient(315deg, #f5d020 0%, #f53803 74%)",
+      backgroundImage: "linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%)",
     },
   },
   orchestration_platforms: {
     icon: <FaCogs size="16rem" />,
     style: {
       backgroundColor: "#f9ea8f",
-      backgroundImage: "linear-gradient(315deg, #f9ea8f 0%, #aff1da 74%)",
+      // backgroundImage: "linear-gradient(315deg, #f9ea8f 0%, #aff1da 74%)",
+      backgroundImage: "linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%)",
     },
   },
 };

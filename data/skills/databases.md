@@ -4,7 +4,7 @@ order: "4"
 color: "danger"
 library:
   [
-    { icon: "mongodb", color: "success", url: "https://nodejs.org/en/" },
+    { icon: "mongodb", color: "success-dark", url: "https://nodejs.org/en/" },
     {
       icon: "mongoose",
       color: "danger",

@@ -22,7 +22,7 @@ library:
     { icon: "mui", color: "link", url: "https://mui.com/", level: true },
     {
       icon: "semanticui",
-      color: "primary",
+      color: "success-dark",
       url: "https://semantic-ui.com/",
       level: true,
     },
@@ -32,7 +32,7 @@ library:
       url: "https://www.typescriptlang.org/",
       level: true,
     },
-    { icon: "vue", color: "success", url: "https://vuejs.org/" },
+    { icon: "vue", color: "success-dark", url: "https://vuejs.org/" },
   ]
 ---
 

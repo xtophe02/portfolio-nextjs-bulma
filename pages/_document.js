@@ -11,7 +11,7 @@ export default function Document() {
       </Head>
       <body
         className="has-navbar-fixed-top"
-        // style={{ fontFamily: "Helvetica" }}
+        style={{ backgroundColor: "	#363636", height: "100vh" }}
       >
         <Main />
         <NextScript />

@@ -10,7 +10,6 @@ library:
     { icon: "aws", color: "warning", url: "https://aws.amazon.com/" },
     { icon: "digitalocean", color: "link", url: "https://aws.amazon.com/" },
     { icon: "heroku", color: "danger", url: "https://www.heroku.com/" },
-
     { icon: "vercel", color: "black", url: "https://vercel.com/" },
     { icon: "linode", color: "success-dark", url: "https://www.linode.com/" },
   ]

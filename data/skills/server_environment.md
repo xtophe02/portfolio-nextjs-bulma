@@ -1,7 +1,7 @@
 ---
 title: "Server Environment"
 order: "3"
-color: "success"
+color: "primary-dark"
 library:
   [
     { icon: "nodejs", color: "text-green-600", url: "https://nodejs.org/en/" },
@@ -36,7 +36,7 @@ library:
       level: true,
     },
     { icon: "firebase", color: "warning", url: "https://firebase.google.com/" },
-    { icon: "supabase", color: "success", url: "https://supabase.com/" },
+    { icon: "supabase", color: "success-dark", url: "https://supabase.com/" },
     { icon: "go", color: "indo", url: "https://go.dev/" },
   ]
 ---

@@ -5,7 +5,7 @@ color: "link"
 library:
   [
     { icon: "bootstrap", color: "link", url: "https://getbootstrap.com/" },
-    { icon: "bulma", color: "primary", url: "https://bulma.io/" },
+    { icon: "bulma", color: "success-dark", url: "https://bulma.io/" },
     { icon: "tailwindcss", color: "info", url: "https://tailwindcss.com/" },
     {
       icon: "materializecss",
