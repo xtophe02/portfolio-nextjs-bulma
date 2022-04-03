@@ -1,6 +1,6 @@
 ---
 title: "dualboot ubuntu with windows 10"
-date: "Dec 11, 2021"
+date: "Dec 21, 2021"
 excerpt: "Learn how to have a dualboot Ubuntu alongside Windows 10"
 image: "dualboot.svg"
 isFeatured: false

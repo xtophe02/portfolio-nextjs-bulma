@@ -1,6 +1,6 @@
 ---
 title: "HTML basics. the barebones of web."
-date: "Dec 12, 2021"
+date: "Jun 12, 2021"
 excerpt: "HTML stands for Hyper Text Markup Language. its the barebones of the web development"
 image: "html.svg"
 isFeatured: true
