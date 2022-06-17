@@ -5,7 +5,7 @@ excerpt: "Plan a flight to REAL exoplanets provided by NASA. check details from 
 image: "nasa-nodejs.png"
 url: "https://nasa.christophemoreira.com/"
 git: "https://github.com/xtophe02/nasa-arwes-nodejs"
-isFeatured: true
+isFeatured: false
 category: ["mongodb", "nodejs"]
 ---
 
