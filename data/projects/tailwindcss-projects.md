@@ -5,7 +5,7 @@ excerpt: "Beautiful projects made with tailwindcss."
 image: "tailwindcss-projects.png"
 url: "https://62ab8a0320d8f22049f814b3--darling-jelly-e45bd8.netlify.app/"
 git: "https://github.com/xtophe02/tailwindcss-projects"
-isFeatured: true
+isFeatured: false
 category: ["tailwindcss, html, css"]
 ---
 
